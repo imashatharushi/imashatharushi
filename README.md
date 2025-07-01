@@ -1,33 +1,72 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**imashatharushi/imashatharushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, I'm Imasha Tharushi!
 
-Here are some ideas to get you started:
+![Visitor Badge](https://komarev.com/ghpvc/?username=nipuniweerasuriya&label=Profile+views&color=0e75b6&style=flat)
+
+🎓 Undergraduate | 💻 Web Developer | 🌱 Always Learning
+
+</div>
+
+
+
+<div align="center">
+
+## 👩‍💻 About Me
+
+I’m a passionate and motivated Web Development student with a strong enthusiasm for creating modern, efficient, and user-friendly digital experiences. With growing expertise in HTML, CSS, JavaScript, React.js, Tailwind CSS, and MySQL, I love transforming creative ideas into responsive and dynamic websites.
+
+From crafting clean, responsive UI designs to delivering smooth, functional frontend experiences, I’m dedicated to building interfaces that are both visually appealing and performance-driven. I take pride in writing clean, maintainable code, exploring modern frameworks, and collaborating effectively in team environments to bring projects to life.
+
+My goal is not just to build beautiful websites—but to develop impactful, scalable solutions that enhance user experience and deliver lasting value in the digital world.
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/00bfff/imashatharushi" alt="imashatharushi's GitHub Contribution Chart" />
+</div>
+
+
+
+<div align="center">
+
+## 🛠️ Tech Stack
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</div>
+
+
+
+
+<div align="center">
+
+## 📈 Contribution Activity
+
+<img src="https://github-activity-graph.vercel.app/graph?username=imashatharushi&bg_color=1f1f1f&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+
+
 ---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Imasha Tharushi</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<div align="center">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=imashatharushi&label=Profile%20views&color=0e75b6&style=flat" alt="imashatharushi" /> </p>
+## 📫 Connect with Me
 
-- 🌱 I’m currently learning **React**
+<a href="https://www.linkedin.com/in/imasha-tharushi/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
-- 📫 How to reach me **imashatharushi786@gmail.com**
+<a href="mailto:imashatharushi786@@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/imasha tharushi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imasha tharushi" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+</div>
