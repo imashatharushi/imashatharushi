@@ -4,7 +4,7 @@
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=nipuniweerasuriya&label=Profile+views&color=0e75b6&style=flat)
 
-🎓 Undergraduate | 💻 Web Developer | 🌱 Always Learning
+🎓 Undergraduate | 💻 Quality Assurance | 🌱 Always Learning
 
 </div>
 
@@ -14,11 +14,9 @@
 
 ## 👩‍💻 About Me
 
-I’m a passionate and motivated Web Development student with a strong enthusiasm for creating modern, efficient, and user-friendly digital experiences. With growing expertise in HTML, CSS, JavaScript, React.js, Tailwind CSS, and MySQL, I love transforming creative ideas into responsive and dynamic websites.
+I am a dedicated and motivated Quality Assurance professional. I am committed to maintaining the highest quality standards in software. Through systematic and effective testing methodologies, I am eager to ensure the quality, reliability, and efficiency of software.
 
-From crafting clean, responsive UI designs to delivering smooth, functional frontend experiences, I’m dedicated to building interfaces that are both visually appealing and performance-driven. I take pride in writing clean, maintainable code, exploring modern frameworks, and collaborating effectively in team environments to bring projects to life.
-
-My goal is not just to build beautiful websites—but to develop impactful, scalable solutions that enhance user experience and deliver lasting value in the digital world.
+My goal is to contribute to the creation of flawless, secure, and user-friendly products. By using modern tools and methodologies, continuously learning, and collaborating effectively as a team, I am ready to make any project successful.
 
 <div align="center">
   <img src="https://ghchart.rshah.org/00bfff/imashatharushi" alt="imashatharushi's GitHub Contribution Chart" />
